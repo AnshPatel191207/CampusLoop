@@ -1,0 +1,9 @@
+/node_modules/
+/.next/
+/.vercel/
+/.local/
+/.env*
+!/.env.example
+*.tsbuildinfo
+next-env.d.ts
+npm-debug.log*
